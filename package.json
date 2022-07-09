@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Rodrigo Godo",
+	"description": "Awesome project to get my fcc certification in API's and Microservices",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
